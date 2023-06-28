@@ -6,7 +6,7 @@ Projeto criado com a finalidade de organizar seus estudos e definir tempos espec
 
 ## Overview
 
-![](.public/screenshot-preview.png)
+![](./public/screenshot-preview.png)
 
 ### Link
 
