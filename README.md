@@ -1,4 +1,4 @@
-# Alura Studies
+# Studies
 
 > Status do projeto: Concluído :white_check_mark:
 
